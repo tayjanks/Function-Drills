@@ -12,7 +12,9 @@
 */
 
 //CODE HERE
-
+function helloWorld (){
+  console.log("Hello, World!")
+}
 
 ////////////////// PROBLEM 2 ////////////////////
 
