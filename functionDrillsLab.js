@@ -83,6 +83,16 @@ greeting("Taylor")
 
 //CODE HERE
 
+function add (item1, item2) {
+  Number(item1, item2);
+  return (item1 + item2);
+}
+
+console.log (add (4,3))
+
+let sum = add(4,3)
+
+console.log(sum);
 
 ////////////////// PROBLEM 7 ////////////////////
 
