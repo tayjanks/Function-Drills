@@ -35,8 +35,8 @@ const jsNinja = () => {
 */
 
 //CODE HERE
-function printName (str) {
-  console.log(str)
+function printName (name) {
+  console.log(name)
 };
 
 printName("Taylor");
@@ -53,6 +53,11 @@ printName("Taylor");
 
 //CODE HERE
 
+function greeting (name) {
+  console.log("Hello, "+name)
+};
+
+greeting("Taylor")
 
 ////////////////// PROBLEM 5 ////////////////////
 
