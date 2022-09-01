@@ -23,7 +23,9 @@ function helloWorld (){
 */
 
 //CODE HERE
-
+const jsNinja = () => {
+  return "I am a JavaScript ninja!"
+}
 
 ////////////////// PROBLEM 3 ////////////////////
 /*
