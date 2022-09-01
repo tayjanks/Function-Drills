@@ -57,7 +57,7 @@ function greeting (name) {
   console.log("Hello, "+name)
 };
 
-greeting("Taylor")
+greeting("Taylor");
 
 ////////////////// PROBLEM 5 ////////////////////
 
@@ -72,6 +72,13 @@ greeting("Taylor")
 
 //CODE HERE
 
+const compareNums = (num1, num2) => {
+  if (num1 > num2){console.log (num1)}
+  else if (num1 <num2){console.log(num2)}
+  else [console.log(num1)]
+}
+
+compareNums(5,5)
 
 ////////////////// PROBLEM 6 ////////////////////
 /*
@@ -86,11 +93,11 @@ greeting("Taylor")
 function add (item1, item2) {
   Number(item1, item2);
   return (item1 + item2);
-}
+};
 
-console.log (add (4,3))
+console.log (add (4,3));
 
-let sum = add(4,3)
+let sum = add(4,3);
 
 console.log(sum);
 
