@@ -14,7 +14,7 @@
 //CODE HERE
 function helloWorld (){
   console.log("Hello, World!")
-}
+};
 
 ////////////////// PROBLEM 2 ////////////////////
 
@@ -25,7 +25,7 @@ function helloWorld (){
 //CODE HERE
 const jsNinja = () => {
   return "I am a JavaScript ninja!"
-}
+};
 
 ////////////////// PROBLEM 3 ////////////////////
 /*
@@ -35,7 +35,11 @@ const jsNinja = () => {
 */
 
 //CODE HERE
+function printName (str) {
+  console.log(str)
+};
 
+printName("Taylor");
 
 ////////////////// PROBLEM 4 ////////////////////
 /*
