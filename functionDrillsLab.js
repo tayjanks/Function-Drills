@@ -177,7 +177,7 @@ else if (name ==="Bryan"){console.log ("Hey Bryan!")}
 else [console.log("Cool name, "+name)]
 };
 
-let nameGreeting = nameCheck();
+let nameGreeting = nameCheck("Taylor");
 
 
 
@@ -192,6 +192,15 @@ let nameGreeting = nameCheck();
 */
 
 //CODE HERE
+
+function faveColorFinder (color) {
+  if (color === "red"){console.log("red is a geat color")}
+  else if (color === "green"){console.log("green is a solid favorite color")}
+  else if (color === "black"){console.log("so trendy")}
+  else [console.log("you need to evaluate your favorite color choice")]
+};
+
+let colorRating = faveColorFinder("orange");
 
 
 ////////////////// PROBLEM 12 ////////////////////
