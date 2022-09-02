@@ -295,6 +295,8 @@ let tryUpper = upperCase(sampleString);
 
 //CODE HERE
 
+function buyFrogs (gold) {console.log(gold / 3)};
+let totalFrogs =buyFrogs(12)
 
 ////////////////// PROBLEM 20 ////////////////////
 /*
