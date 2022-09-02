@@ -272,6 +272,9 @@ let sampleString = "Hi, my name is Kylo."
 
 //CODE HERE
 
+function upperCase (str) {console.log( str.toUpperCase())};
+
+let tryUpper = upperCase(sampleString);
 
 ////////////////// PROBLEM 18 ////////////////////
 /*
