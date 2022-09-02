@@ -305,6 +305,8 @@ let totalFrogs =buyFrogs(12)
 
 //CODE HERE
 
+function buyFrogs2 (gold) {console.log(Math.trunc(gold / 3))};
+let totalFrogs2 =buyFrogs2(100)
 
 ////////////////// PROBLEM 21 ////////////////////
 let sampleArray = [0,1,2,3,4,7,5,6,8,9]
