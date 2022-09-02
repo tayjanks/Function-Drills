@@ -229,6 +229,12 @@ let printingNames = printAllNames(namesArr);
 
 //CODE HERE
 
+function thatsOdd (number) {
+  if (number % 2 ===0){console.log("That's not odd!")}
+  else [console.log ("That is odd indeed!")]
+};
+
+let oddChecker = thatsOdd(12);
 
 ////////////////// PROBLEM 14 ////////////////////
 
